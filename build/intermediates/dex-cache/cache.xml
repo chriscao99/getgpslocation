@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-2dcc17163c41e28d7f1f15081567772bf4379538.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-b0792c3c403aef1077221dc410dafbab1e667e33.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-29c855c339025b0b15522a5871c011c4934d0aac.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-8db043998339ba006abd459da5ea05ed273bf50e.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-e8420e44217e3172ac49a73bf5092779adc29caa.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-f53fdda3f05c1bc77e536b16f31b4ff22fd0f845.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-b5ea83d9601400984582f2817b6e59550d36d10c.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-a412bcd6de4b998a9c60e349f1185b034e5df2a0.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-45fb9ad6c4fceb1ea239fd51a1806ba618f21320.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-c4ec970313f2f17dfb816506b807ca6afdeeb5d9.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-e31070e507299dd2ed8eac59a47930b2058093e3.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-38575d601d5a8412822bbc405489242ffce328d4.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-bbca09e7656ad63135c5e71151a0b9533ce1e924.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-e256611dd446c7411864f42c20d4fc8a216bc3ae.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-21bb1db2427689abaef4c8f403f32b78c9acdf43.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-36e77e4d7d2487463781b44cca3b5ee1c9cf3249.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-e5ff8aa7d1271a03dd2ecd3ba3e24fd2153e9451.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-b17969f2ea067cb119444935577af12a286e5e85.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-5d0b2a3e9256d5ee1b5514c882a9db14eb22d201.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-8b35e26e37fab8288ee1c70d95ceae1946e3ea63.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-412f33985add0f51985ef8a415cab36c5866c034.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-fa573e70ca763c3bd7e9ecf14f0d5792f035bcf1.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-302af7db307c1ea2332b8a4800806ea872f495c5.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-069f9dc76a85d56246f25aff6639e6893af1b3f1.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-7bad56d3a93c7065e63f0d35a14cb7a98c7e4e59.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-8852fc545a0e563214b949c648abfd1a3ec5a998.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82054090e487d78e163a988557db62d809fa9b95">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-4207fb21f1f1f926ed2588842f734197b5e05751.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/classes-9fa8a66bcc8ff4142ef8a3507edacb19d96f3bb8.jar" />
+    </item>
+    <item
+        jar="/Users/christophercao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/christophercao/AndroidStudioProjects/GetGPSLocation/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-06df329f03535c9ad3fe9e0684c0b1c80fae5f5d.jar" />
+    </item>
+
+</items>
